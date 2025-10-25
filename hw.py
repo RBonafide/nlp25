@@ -1,2 +1,2 @@
-x = "Andrey"
+x = "Ivan"
 print(f"hello, {x}")
